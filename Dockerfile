@@ -5,4 +5,4 @@ RUN chmod +x /start.sh
 
 CMD /start.sh
 
-#update e2
+#update ee
